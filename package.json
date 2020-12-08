@@ -1,6 +1,6 @@
 {
   "name": "broccoli-asset-rev",
-  "version": "3.0.0",
+  "version": "3.0.0-intercom.1",
   "description": "broccoli asset revisions (fingerprint)",
   "main": "lib/asset-rev.js",
   "files": [
